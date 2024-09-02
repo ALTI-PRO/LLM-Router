@@ -1,4 +1,6 @@
 # Cost-Effective LLM Routing Using Text Classification with TensorFlow
+Kaggle Notebook: https://www.kaggle.com/code/bertpro/llm-router-binary-classifier
+
 ![image](https://github.com/user-attachments/assets/996472f9-49a4-4542-b5e2-bc2eb9b590e0)
 
 This project focuses on text classification using TensorFlow, where we explore multiple neural network architectures to classify text inputs effectively. The dataset used for this task has an imbalanced class distribution, which posed additional challenges for model performance.
